@@ -17,7 +17,7 @@ The Content Pack should be compatible with all Graylog 5.X version.
 ## Requirements
 * Graylog 5.0 
 * Stormshield Firewall w/ Syslog 1514/UDP Ports
-* Open ports 1514 for UDP on Graylog
+* Open port 1514 for UDP on the graylog host and/or docker compose file
 * Edit content-pack.json and find the strings:
   - `firewall.lab.lan` and rename it according to your firewall hostname.
   - `Europe/Paris` and rename it according to your server Timezone
