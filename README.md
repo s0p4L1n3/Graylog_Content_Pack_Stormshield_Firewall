@@ -16,8 +16,9 @@ The Content Pack should be compatible with all Graylog 5.X version.
 
 ## Requirements
 * Graylog 5.0 
-* Stormshield Firewall w/ Syslog UDP
-* An UDP Syslog INPUT
+* Stormshield Firewall w/ Syslog 1514/UDP Ports
+* Open ports 1514 for UDP on Graylog
+* Edit content-pack.json and find the string `firewall-A.lab.lan` and rename it according to your firewall hostname.
 
 ## Stormshield Firewall Syslog configuration
 
