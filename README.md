@@ -21,6 +21,11 @@ The Content Pack should be compatible with all Graylog 5.X version.
 * Edit content-pack.json and find the strings:
   - `firewall.lab.lan` and rename it according to your firewall hostname.
   - `Europe/Paris` and rename it according to your server Timezone
+ 
+## Install the content pack
+
+![Install_content_pack](https://github.com/s0p4L1n3/Graylog_Content_Pack_Stormshield_Firewall/assets/126569468/50deca7c-e7ba-45af-b3ff-136d478e55bb)
+
 
 ## Stormshield Firewall Syslog configuration
 
