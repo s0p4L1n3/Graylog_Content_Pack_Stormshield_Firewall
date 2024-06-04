@@ -1,8 +1,8 @@
 # Stormshield Firewall Content Pack
 
-Tested with Stormshield 4.0.3 and Graylog 5.1.4. Should work with all Stormshield 4.X version.
+Tested with Stormshield 4.0.3 and Graylog 6.0.2. Should work with all Stormshield 4.X version.
 
-The Content Pack should be compatible with all Graylog 5.X version.
+The Content Pack should be compatible with all Graylog 5.X and 6.X version.
 
 **Note this was built without extractors, only pipeline rules.**
 
